@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actives>
+	<active id="1">
+		<name>迎新晚会</name>
+		<time>2017-09-16 18:00</time>
+		<location>圆台</location>
+		<image>http://omean34je.bkt.clouddn.com/image/head/1.jpg</image>
+	</active>
+	<active id="2">
+		<name>测试</name>
+		<time>2017-09-16 18:00</time>
+		<location>A3-207</location>
+		<image>http://omean34je.bkt.clouddn.com/image/head/3.jpg</image>
+	</active>
+	<active id="3">
+		<name>班会</name>
+		<time>2017-09-16 18:00</time>
+		<location>A5-201</location>
+		<image>http://omean34je.bkt.clouddn.com/image/head/2.jpg</image>
+	</active>
+	<active id="4">
+		<name>辩论会</name>
+		<time>2017-09-16 18:00</time>
+		<location>A3-305</location>
+		<image>http://omean34je.bkt.clouddn.com/image/shops/20170401205700.jpg</image>
+	</active>
+</actives>
